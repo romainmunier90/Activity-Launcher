@@ -1,2 +1,4 @@
 # Activity-Launcher
 Activity Launcher
+
+AUCUNES AUTORISATIONS PARTICULIERES NE SONT DEMANDEES
